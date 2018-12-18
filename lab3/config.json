@@ -1,0 +1,9 @@
+{
+	"mysql" : {
+		"host" : "127.0.0.1",
+		"user" : "root",
+		"passwd" : "pawel717",
+		"database" : "lab2",
+		"use_unicode" : true
+	}
+}
